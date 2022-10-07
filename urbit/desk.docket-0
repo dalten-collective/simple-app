@@ -1,0 +1,9 @@
+:~  title+'Simple'
+    info+'I am useless.'
+    color+0x11.8c4f
+    site+/apps/simple
+    base+'simple'
+    version+[0 0 1]
+    website+'https://dalten.org/'
+    license+'AGPL'
+==
